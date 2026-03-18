@@ -9,7 +9,7 @@ The .png figures in the direction have been uploaded so they can be displayed in
 
 If you would like to create a new SPQR package, you must first download the spqrPackage (you need to download this whole folder and should run all commands in the spqrPackage directory). We used this YouTube video as a reference for how to upload the package: https://www.youtube.com/watch?v=5KEObONUkik.
 
-Once you have the package downloaded it is likely you will need to change some files. For the most part, you should only ever need to change: main.py, README.md, or setup.py. If you are changing the code of the package itself, you should update main.py. If you would like to update documentation, then you should update README.md. Finally, there could be a time where you need to update setup.py. This may occur if you do something such as change the license of the package, need to add a new import, or need to debug something while uploading to testpypi.org or pypi.org.
+Once you have the package downloaded it is likely you will need to change some files. For the most part, you should only ever need to change: main.py, README.md, or setup.py. If you are changing the code of the package itself, you should update main.py. If you would like to update documentation, then you should update README.md. Finally, there could be a time where you need to update setup.py. This may occur if you do something such as change the license of the package, need to add a new import, change the author of the package, or need to debug something while uploading to testpypi.org or pypi.org.
 
 Once you have completed updates to the package run these commands to upload it to testpypi.org:
 ```
